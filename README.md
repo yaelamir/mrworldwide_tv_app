@@ -1,4 +1,6 @@
-Mr. Worldwide TV
+#Mr. Worldwide TV
+
+![Image of Pitbull in front of planet that says Mr. Worldwide.](http://www.pitbullmusic.com/sites/pitbull/files/earthpitfinal23.png)
 
 Project to create a web home for videos of pitbull
 
