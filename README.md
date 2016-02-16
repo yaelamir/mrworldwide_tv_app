@@ -1,28 +1,12 @@
-== README
+Mr. Worldwide TV
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Project to create a web home for videos of pitbull
 
-Things you may want to cover:
+## User Stories
 
-* Ruby version
+***AAU:***
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+1. I want to watch Pitbull videos
+2. Search Pitbull videos by song titles
+3. Filter Pitbull videos by albums of featured artists
+4. 
